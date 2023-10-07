@@ -15,7 +15,13 @@ pip install -r requirments.txt
 pyinstaller --onefile DiskWipe.py
 ```
 
-### DISCLAIMER:
+## Linux
+
+On Linux it's best to launch from the commandline as your sudo password is required for dc3dd.
+
+----
+
+## DISCLAIMER:
 
 This program is intended for educational purposes and legitimate, authorized disk wiping only. It is provided 'as is',
 without warranty of any kind. The author, Ryan Collins, accepts no responsibility or liability for any data loss or

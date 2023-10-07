@@ -1,5 +1,7 @@
 # Disk Wipe
 
+![ALT](https://github.com/ryd3v/DiskWipe/blob/main/Screenshot.png)
+
 Disk Wipe is a versatile tool designed for the secure erasure of storage media on both Windows and Linux operating
 systems. By employing robust wiping methods, it ensures that the data on the specified disk is irretrievably deleted,
 making it an effective solution for anti-forensic processes. This application offers a user-friendly interface and
